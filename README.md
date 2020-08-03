@@ -2,7 +2,7 @@
 ### Project 2: Continuous Control
 # Train a Set of Robotic Arms
 
-<img src="images/robot-pickers.gif" width="60%" align="top-left" alt="" title="Robot Arms" />
+<img src="images/robot-pickers.jpg" width="60%" align="top-left" alt="" title="Robot Arms" />
 
 *Photo credit: [Google AI Blog](https://ai.googleblog.com/2018/06/scalable-deep-reinforcement-learning.html)*
 
